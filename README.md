@@ -125,7 +125,7 @@ Em uma investigação, nem todas as relações possuem a mesma relevância. O co
 
 O conceito de responsabilidade segue uma lógica semelhante.
 
-No software, o **Clean Code** ajuda a questionar:
+No software, os princípios de Clean Code, especialmente a separação de responsabilidades, ajudam a questionar:
 
 > **“Qual é a responsabilidade deste componente?”**
 
