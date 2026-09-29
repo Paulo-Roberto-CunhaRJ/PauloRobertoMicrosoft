@@ -34,7 +34,7 @@ O objetivo deste repositório é **aprofundar e sistematizar conhecimentos que j
 
 ## O problema
 
-Uma solicitação aparentemente simples de suporte pode envolver diferentes componentes:
+Uma solicitação de suporte pode envolver diferentes componentes:
 
 ```text
 Usuário
@@ -52,9 +52,7 @@ Aplicação
 Serviço
 ```
 
-Um problema de acesso, por exemplo, não necessariamente pertence ao componente inicialmente apontado pelo usuário.
-
-Por isso, a investigação começa pelo **contexto**.
+A investigação começa pelo **contexto**.
 
 ---
 
